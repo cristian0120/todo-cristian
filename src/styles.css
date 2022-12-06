@@ -1,0 +1,43 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color:aliceblue
+  }
+  h1{
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background-color: aliceblue;
+  }
+  .containerPlaceholder{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+    background-color: aliceblue;
+    width: 400px;
+    height: 200px;
+    margin-left: 1000px;
+
+  }
+
+  .Placeholder{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: aliceblue;
+  }
+
+  input{
+    background-color: aliceblue;
+    color: black;
+  }
+  button{
+    background-color: aliceblue;
+    color: black;
+  }
+  hr{
+    color: black;
+    width: 380px;
+  }
